@@ -2,4 +2,4 @@
 
 <h1>{{session('username')}}</h1>
 <br><br>
-<a href="/logout">logout</a>
+<a href="/logout">logout logout</a>
