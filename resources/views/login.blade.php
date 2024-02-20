@@ -3,5 +3,5 @@
     @csrf
     <input type="text" name="username"><br><br>
     <input type="text" name="password"><br><br>
-    <button type="submit">Login</button>
+    <button type="submit">Login Login</button>
 </form>
